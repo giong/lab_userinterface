@@ -307,5 +307,6 @@ public class AddToDoActivity extends Activity {
 		}
 		Log.i(TAG, msg);
 	}
+//add comment
 
 }
